@@ -8,6 +8,10 @@ git clone https://github.com/dark186/escaneo.git
 
 cd escaneo
 
+pip install requests
+
+pip install sockets
+
 chmod +x Escaneo.py
 
 ./Escaneo.py
